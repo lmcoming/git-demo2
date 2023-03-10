@@ -6,4 +6,6 @@ drwxr-xr-x 1 guohao 197121  0 Mar 10 08:17 .git/
 -rw-r--r-- 1 guohao 197121 83 Mar 10 08:20 hello.txt
 hello,git git merge 123456 
 hello.git 1.2	git branch git branch pro
-hello.git 1.3  git branch -v   git branch checkout 
+hello.git 1.3  git branch -v   git branch checkout
+git master
+
