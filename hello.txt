@@ -6,3 +6,4 @@ drwxr-xr-x 1 guohao 197121  0 Mar 10 08:17 .git/
 -rw-r--r-- 1 guohao 197121 83 Mar 10 08:20 hello.txt
 hello,git
 hello.git 1.2
+hello.git 1.3
